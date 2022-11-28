@@ -1,0 +1,10 @@
+.navbar a{
+    color: #133972 !important;
+}
+.active{
+    font-weight: 700;
+}
+
+.image{
+    border-radius: 80%;
+  }
